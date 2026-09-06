@@ -1,0 +1,6 @@
+{
+  "name": "Mahima Fashion",
+  "description": "Wholesale Muslim and modest fashion e-commerce catalog and business management platform with live inventory, billing, orders, and role-based admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
